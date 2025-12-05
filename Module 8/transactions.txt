@@ -1,0 +1,9 @@
+DEPOSIT +$2000.50
+PURCHASE -$1300.99 item=Purchase
+PURCHASE -$12.99 item=Purchase
+PURCHASE -$4.50 item=Purchase
+DEPOSIT +$1000.00
+PURCHASE -$1300.99 item=Purchase
+PURCHASE -$99.05 item=Purchase
+PURCHASE -$10.00 item=Purchase
+PURCHASE -$7.35 item=Purchase
